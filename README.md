@@ -1,6 +1,6 @@
-#Ancestry HMM Manual  
-#Version 0.94  
-###Russ Corbett-Detig  
+# Ancestry HMM Manual  
+# Version 0.94  
+### Russ Corbett-Detig  
 
 ####Download and Compile:  
 
